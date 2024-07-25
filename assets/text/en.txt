@@ -1,0 +1,199 @@
+METADATA
+7;60;146;
+--- --- --- --- --- --- --- --- --- --- --- ---
+COLUMNS FOR PRERENDER: (mandatory: filename, ascii bitmap)
+name; ascii bitmap name; ascii mask bitmap name; localization bmp name; localization mask bmp name; localization font path (.ttf); text size;
+--- --- --- --- --- --- --- --- --- --- --- ---
+en_prerendered_header;bmp_ascii_header;;;;;140;
+aqwertyuiopasdfghjklzxcvbnm
+QWERTYUIOPASDFGHJKLZXCVBNM
+important phrases for prerendering here
+Wirebound
+New game
+Load game
+Continue
+Archive
+Options
+Credits
+Quit
+Loading
+Copyright
+https
+github
+com
+Superman
+Lanb of God
+Pantera
+Hatebreed
+Machine Head
+Decapitated
+Godsmack
+Messhugah
+Belakor
+Dawn
+Monuments
+Testament
+Hew Collosal Hate
+London is the capital of Great Britain
+Re spect walk are you talking to me
+no way punk
+You take it as a weakness
+contract to die
+I am not going to tell you what happend
+You might guess why am I do this
+Navigate
+Next
+Prev
+Accept
+Quick
+General
+Interface
+Controls
+Audio
+Video
+Game
+Start
+Back
+Class
+Type
+Description
+en_prerendered_text;bmp_ascii_text;bmp_ascii_text_mask;;;;100;
+(important phrases for prerendering in font#2)
+pppppSensitivity
+aaaaaBrightness
+iiiiiMaster volume
+Inventory Pause
+aqwertyuiopasdfghjklzxcvbnm
+QWERTYUIOPASDFGHJKLZXCVBNM
+ABCDEFGHIJKLMNOPQRSTUVWZYX
+abcdefghijklmnopqrstuvwzyx
+Language
+FPS Mark
+Dynamic Auto Camera
+Invert X-axis
+Invert Y-axis
+Monitor
+Screen resolution
+Display Mode
+Frame Rate Limitation
+Quality
+Particle System
+Motion Blur
+Post Processing
+V-Sync
+Gamma
+MSAA
+General
+SFX
+Vegetation
+Sky
+Liquid
+Shadows
+Dialogue Volume
+SFX (effects) Volume
+Special Jumping Sounds
+Button Layout Preset
+Hold to Run
+Hold to Sit
+Move
+forward
+back
+left
+right
+grab
+attack
+throw
+WASD
+RMB
+LMB
+SpaceBar
+Ctrl
+Shift
+CapsLock
+Use
+Activate
+Jump
+Hold
+map
+toggle walk/run
+Escape
+inventory
+quicksave
+quickload
+console
+lay
+vision mode
+custom action
+quick-tools wheel
+heal
+reload
+--- here all keys (jump, run, walk, etc...) ---
+key
+action
+Health
+HP
+Stamina
+Ok
+Yes
+No
+Accept
+Damage
+Block
+Fire
+Cold
+Poison
+Shock
+// here may be more other __prerendered with different fonts, but <=2 is the most common and useful
+--- --- --- --- --- --- --- --- --- ---
+(main text - all data including csv-like subdata, in no en.txt numbers are skipped)
+1. London is the capital of Great Britain and Nothern Island.
+2. Some components shold be invalidated.
+3. Hello, World!
+4. I don't quite approve of that.
+5. What's up, man, how is it going?
+6. Falltown,18,2000,3,5,"small quiet city with dense population and etc and etc"
+7. Calltown,31,4000,1,4,"small quiet city with dense population and etc and etc"
+8. Talltown,19,6000,8,9,"small quiet city with dense population and etc and etc"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
